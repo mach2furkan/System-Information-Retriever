@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/project man cmp /cmake-build-debug/CMakeFiles/project_man_cmp_.dir
+/Users/furkanaskin/Desktop/C Projeler/project man cmp /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/project man cmp /cmake-build-debug/CMakeFiles/rebuild_cache.dir
